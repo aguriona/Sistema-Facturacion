@@ -1,0 +1,1 @@
+SELECT * FROM sistemafacturacion.cliente;
